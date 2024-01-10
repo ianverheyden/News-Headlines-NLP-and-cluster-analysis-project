@@ -9,7 +9,7 @@ To be used for short term or long term analysis of news trends, however can be e
   * Determination of optimum number of clusters using elbow analysis and comparison of silhouette scores. 
   * Clustering analysis using Sklearn.cluster library's KMeans algorithm.
   * Resulting clusters subjected to dimensionality reduction (PCA) and are visualized in 3 factor space.
-  * Label each cluster centroid with the list of most representative words from vectorized headlines.
+  * Label each cluster centroid with the list of most representative words, according to TFID frequenecy.
  
 ## Example Results: 
 https://github.com/ianverheyden/News-Headlines-Web-Scraping-Cluster-Analysis-and-Visualization/assets/126430109/a769f6e6-7b9c-4c23-8bd1-e7228ee92898
